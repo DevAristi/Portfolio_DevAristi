@@ -44,7 +44,7 @@ money_needed = goal - current_savings
 months_to_freedom = money_needed / monthly_savings
 years_to_freedom = months_to_freedom / 12
 
-# 5. Age Projection
+# 5. Age ProjectionSSS
 retirement_age = current_age + years_to_freedom
 
 # --- PHASE 3: ANALYTICS REPORT (Output) ---
